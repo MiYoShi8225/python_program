@@ -1,0 +1,5 @@
+a = list([2,3,4,5])
+print(a)
+a1=a.pop()
+print(a1)
+print(a)
