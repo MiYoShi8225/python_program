@@ -41,3 +41,4 @@ def hangman(word):
         print("終了です。\n答えは\"{}\"です。".format(word))
         
 hangman("test")
+
